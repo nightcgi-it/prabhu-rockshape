@@ -1,0 +1,15 @@
+# ==============================================================================
+# ROBOTS.TXT FOR PRABHU ROCKSHAPE MACHINERY LTD.
+# Domain: https://prabhurockshape.com
+# ==============================================================================
+
+User-agent: *
+Allow: /
+
+# Disallow internal assets and backend endpoints
+Disallow: /api/
+Disallow: /_next/
+Disallow: /*.json$
+
+# Sitemaps
+Sitemap: https://prabhurockshape.com/sitemap.xml

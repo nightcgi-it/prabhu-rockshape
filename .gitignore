@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+coverage/
+
+.env*
+!.env.example
+
+.DS_Store
+*.tsbuildinfo
+
+hostinger-deploy.zip
+out.zip

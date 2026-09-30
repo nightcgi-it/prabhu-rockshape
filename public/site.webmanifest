@@ -1,0 +1,21 @@
+{
+  "name": "Prabhu Rockshape Machinery Ltd.",
+  "short_name": "Prabhu Rockshape",
+  "description": "Wear Protection Systems & Industrial Fabrication Solutions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A2233",
+  "theme_color": "#0A2233",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/images/rockshape-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
